@@ -1,4 +1,4 @@
-# Verifica se pode tirar carteira de motorista
+0# Verifica se pode tirar carteira de motorista
 # Operadores lógicos em Python são escritos por extenso: and, or, not
 # (em JS são &&, ||, !)
 
